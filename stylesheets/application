@@ -3,17 +3,17 @@ Error: File to import not found or unreadable: foundation-sites/scss/util/util.
         on line 43 of /Users/dotan.nahum/experiments/the_konference/source/stylesheets/_settings.scss
         from line 2 of /Users/dotan.nahum/experiments/the_konference/source/stylesheets/application.scss
 
-38:   text-align: center;
-39:   background: rgba(0,0,0,0.5);
-40:   padding: 20px;
-41:   border-radius: 5px;
-42: }
-43: 
-44: .hero {
-45:   text-align:center;
-46:   h1{
-47:     font-size: 5em;
-48:     small{
+38:   background: rgba(0,0,0,0.5);
+39:   padding: 20px;
+40: }
+41: 
+42: .hero {
+43:   text-align:center;
+44:   h1{
+45:     font-size: 5em;
+46:     small{
+47:       margin-top:0.5em;
+48:     }
 
 Backtrace:
 /Users/dotan.nahum/experiments/the_konference/source/stylesheets/_settings.scss:43
@@ -147,4 +147,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: foundation-sites/scss/util/util.\A         on line 43 of /Users/dotan.nahum/experiments/the_konference/source/stylesheets/_settings.scss\A         from line 2 of /Users/dotan.nahum/experiments/the_konference/source/stylesheets/application.scss\A \A 38:   text-align: center;\A 39:   background: rgba(0,0,0,0.5);\A 40:   padding: 20px;\A 41:   border-radius: 5px;\A 42: }\A 43: \A 44: .hero {\A 45:   text-align:center;\A 46:   h1{\A 47:     font-size: 5em;\A 48:     small{"; }
+  content: "Error: File to import not found or unreadable: foundation-sites/scss/util/util.\A         on line 43 of /Users/dotan.nahum/experiments/the_konference/source/stylesheets/_settings.scss\A         from line 2 of /Users/dotan.nahum/experiments/the_konference/source/stylesheets/application.scss\A \A 38:   background: rgba(0,0,0,0.5);\A 39:   padding: 20px;\A 40: }\A 41: \A 42: .hero {\A 43:   text-align:center;\A 44:   h1{\A 45:     font-size: 5em;\A 46:     small{\A 47:       margin-top:0.5em;\A 48:     }"; }
